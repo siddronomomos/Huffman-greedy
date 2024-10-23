@@ -1,0 +1,13 @@
+# Requisitos básicos para el proyecto de codificación Huffman
+numpy==1.21.2
+scipy==1.7.1
+matplotlib==3.4.3
+
+# Para pruebas
+pytest==6.2.4
+
+# Para calidad del código
+flake8==3.9.2
+
+# Requisitos adicionales para la GUI y threading
+tk==0.1.0
